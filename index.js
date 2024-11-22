@@ -7,5 +7,5 @@ console.log(`magic number : ${magicNumber}`);
 
 // 名前を指定して，日本語で挨拶する関数
 const greeting = (name) => {
-
+  console.log(`はじめまして，${name}様`);
 }
