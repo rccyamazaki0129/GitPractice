@@ -9,3 +9,5 @@ console.log(`magic number : ${magicNumber}`);
 const greeting = (name) => {
   console.log(`はじめまして，${name}様`);
 }
+
+greeting('れれれ');
